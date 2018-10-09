@@ -1,0 +1,13 @@
+.icon-img {
+	background-color: #fafad2;
+	display: inline-grid;
+	padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 100px;
+}
